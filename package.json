@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-video",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Video for next.",
   "homepage": "https://github.com/afeiship/next-video",
   "author": {
@@ -37,5 +37,10 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "video",
+    "element"
+  ]
 }
