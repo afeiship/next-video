@@ -12,9 +12,12 @@ npm install -S @jswork/next-video
 ```
 
 ## apis
-| api | params | description   |
-|-----|--------|---------------|
-| get | -      | desc balabala |
+| api     | params | description                                        |
+| ------- | ------ | -------------------------------------------------- |
+| playing | -      | To tell if a <video> element is currently playing. |
+| play    | -      | Play a video.                                      |
+| pause   | -      | Pause a video.                                     |
+| stop    | -      | Stop a video.                                      |
 
 ## usage
 ```js
